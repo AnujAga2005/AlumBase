@@ -124,8 +124,8 @@ export const Navbar = () => {
         {
             name: "Events",
             sub: [
-                { name: "registered events", path: "/nature" },
-                { name: "all events", path: "/historical" },
+                { name: "registered events", path: "/events" },
+                { name: "all events", path: "/events" },
             ],
         },
         { name: "alumni directory", path: "/alumni" }, // Corrected path

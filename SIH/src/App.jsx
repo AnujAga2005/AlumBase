@@ -4,6 +4,7 @@ import { Navbar } from "./sections/Navbar";
 import { Home } from "./pages/Home";
 import Donations from "./pages/Donations";
 import AlumniDirectory from "./pages/AlumniDirectory";
+import Events from "./pages/Events";
 
 
 const App = () => {
@@ -20,6 +21,7 @@ const App = () => {
 
   <Route path="/donations" element={<Donations />} />
   <Route path="/alumni" element={<AlumniDirectory />} />
+  <Route path="/events" element={<Events />} />
 
   {/* sub-category pages */}
   
