@@ -1,7 +1,7 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import { Navbar } from "./sections/Navbar";
-import { Home } from "./pages/Home";
+import  { Home }  from "./pages/Home";
 import Donations from "./pages/Donations";
 import AlumniDirectory from "./pages/AlumniDirectory";
 import Events from "./pages/Events";

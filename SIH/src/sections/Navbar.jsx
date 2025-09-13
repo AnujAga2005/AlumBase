@@ -262,7 +262,7 @@ export const Navbar = () => {
                 <div ref={contactRef} className="flex flex-col flex-wrap justify-between gap-4 md:flex-row">
                     <div className="font-light">
                         <p className="tracking-wider text-white/50">Website</p>
-                        <p className="text-lg tracking-widest lowercase text-pretty">yourcollege.edu</p>
+                        <p className="text-lg tracking-widest lowercase text-pretty">AlmaTrack.com</p>
                     </div>
                 </div>
             </nav>
